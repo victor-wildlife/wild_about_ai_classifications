@@ -1,0 +1,9 @@
+name: voila-zoo-classifications
+channels:
+- conda-forge
+dependencies:
+- pandas
+- ipywidgets
+- gdown
+- jupyterlab>=3.1
+- voila>=0.2.11
